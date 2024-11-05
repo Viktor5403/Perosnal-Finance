@@ -4,16 +4,16 @@
 1. [Project Overview](#project-overview)
 2. [Data Source](#data-source)
 3. [Tools](#tools)
-4. [Data Cleaning/Preparation](#data-cleaning-preparation)
+4. [Data Cleaning](#data-cleaning)
 5. [Exploratory Data Analysis](#exploratory-data-analysis)
-6. [Results/Findings](#results-findings)
+6. [Results](#results)
 7. [Recommendations](#recommendations)
 8. [Limitations](#limitations)
 9. [References](#references)
 
 ## Project Overview
 
-
+![image](https://github.com/user-attachments/assets/a28af109-bbc7-48b2-b5cd-036c16824a7e)
 
 The objective of this analysis is to provide insights into an individual's financial habits, including income, expenses, savings, and investments. By understanding these key areas, the analysis aims to identify trends, optimize budget allocation, and offer personalized financial advice for improved financial health.
 
@@ -39,7 +39,7 @@ Key questions explored in the analysis:
 4. **Budget Allocation**: Are there areas where spending exceeds recommended budget limits?
 5. **Debt Analysis**: What is the level of debt and how is it changing over time?
 
-## Results/Findings
+## Results
 1. **Income Insights**: Detailed monthly and yearly income trends, with insights into primary income sources.
 2. **Spending Patterns**: Breakdown of spending across categories, identifying high-expenditure areas and potential for budget adjustments.
 3. **Savings Growth**: Observed trends in savings contributions and recommendations to increase savings rates.
